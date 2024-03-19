@@ -2,9 +2,68 @@
 title: About
 layout: page
 ---
+# Hello I'm Isui Martinez
+![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(1).png?raw=true)
 
-Hey! This is the "Leaf" Jekyll theme created by <a rel="me" target="_blank" href="https://twitter.com/_SupunKavinda">Supun Kavinda</a>.
+I am a Security Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I am a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment and make a significant contribution to cybersecurity.  
 
-You can find the source code of this theme at <a href="https://github.com/SupunKavinda/jekyll-theme-leaf">Github</a>
+In my academic training, I have participated in various research projects and I have also been part of extracurricular programs. For example, I completed the Oracle Next Education program, where I gained skills as a Full Stack developer. In addition, I participated in the Microsoft Mexico Innovaccion Virtual program, where I obtained the Microsoft Certified Azure Fundamentals certification. I also hold other certifications, such as "ESET Latin America Incident Management and Response" and NSE 1 Network Security Associate from Fortinet.
 
-(Change this by editing `about.md` file)
+My goal is to continue learning and growing in the field of technology and cybersecurity, in order to be able to contribute my skills and knowledge to companies, organizations and innovative projects in the future.
+
+## Professional Experience
+> Researcher Assistant in Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
+  - Scientific Research Summer Program:
+    - Research line "Cybersecurity".
+    - Malware analysis for mobile devices (Android).
+    - Pentesting on mobile devices.
+    - Malware injection with Metasploit
+   
+> IT Assitant in the Departamento de Desarrollo Académico en Instituto Tecnológico de Pachuca:
+  * Preventive and corrective maintenance of computer equipment (computers, printers, etc.)
+  * Technological solutions
+  * Generation of reports in Excel
+  * ETL pro
+
+> Independent Information Systems Technician
+  * Preventive and corrective maintenance of computer equipment.
+  * Assembly of high-performance computing equipment
+
+
+## Proyects
+- [Análisis de seguridad de aplicaciones móviles wearables para sistema operativo Android](https://github.com/IsuiLugo/Verano-Cientifico-Delfin-INAOE-CCC-TECNM_PACHUCA) (Spanish)
+  > Proyecto de Investigación Científica como parte del Programa de Investigación Científica y Tecnológica del Pacífico “Delfín”.
+
+- [Box Class](https://www.boxclass.net) (Spanish)
+  > Proyecto de Investigación y desarrollo como parte de la asignatura "Taller de Investigación" de la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Pachuca en la carrera en Ingeniería en Sistemas Computacionales.
+
+- [Blog of Cybersecurity](https://l19200205.wixsite.com/cybersecdevadvance/blog)
+  > My blog of Cybersecurity and Hacking.
+
+## Education
+
+- **Bachelor of Science in Computer Systems Engineering**
+  - *Instituto Tecnológico de Pachuca*
+
+- **Bachelor of Science in Software Engineering**
+  - *Universidad Digital del Estado de Hidalgo*
+
+
+## Certifications
+* [Cyber Threat Management - CISCO](https://www.credly.com/badges/9cd81d56-413f-40a7-90dc-ad4ad2fe1126/linked_in_profile)
+* [Ehical Hacker - CISCO](https://www.credly.com/badges/f1f850ab-1dca-49eb-afaa-1ef63310b5f2/linked_in_profile)
+* [Introduction to Cybersecurity -CISCO](https://www.credly.com/badges/02a23cd3-e950-4ef1-8392-7e3cfe66d952/linked_in_profile)
+* [Ethical Hacking Essentials (EHE) - EC-COUNCIL](https://codered.eccouncil.org/certificate/9a7e0ba6-1f77-434f-81ec-c4ae1643f3a9?logged=false)
+* [Network Defense Essentials (NDE) - EC-COUNCIL](https://codered.eccouncil.org/certificate/2a034f7d-bde4-4046-9d98-f462219a5bd6?logged=false)
+* Microsfot Certified Azure Fundamentals
+
+## Skills
+* Teamwork
+* I work under pressure
+* Proactive
+* Troubleshooting
+* Effective communication
+* Excellent user/customer service
+
+
+**With 💙 Isui Matinez**
