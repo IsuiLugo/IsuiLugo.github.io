@@ -1,6 +1,6 @@
 title: Isui
 iconURL: assets/hacker.png
-theme: jekyll-theme-leaf
+# theme: jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
