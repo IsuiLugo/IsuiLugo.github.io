@@ -5,11 +5,12 @@ layout: page
 # Hello I'm Isui Martinez
 ![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(1).png?raw=true)
 
-I am a Security Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I am a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment and make a significant contribution to cybersecurity.  
+I am a Security Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I am a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment.   
 
-In my academic training, I have participated in various research projects and I have also been part of extracurricular programs. For example, I completed the Oracle Next Education program, where I gained skills as a Full Stack developer. In addition, I participated in the Microsoft Mexico Innovaccion Virtual program, where I obtained the Microsoft Certified Azure Fundamentals certification. I also hold other certifications, such as "ESET Latin America Incident Management and Response" and NSE 1 Network Security Associate from Fortinet.
+In my academic training, I have participated in various research projects and I have also been part of extracurricular programs. For example, I completed the Oracle Next Education program, where I gained skills as a Full Stack developer. In addition, I participated in the Microsoft Mexico Innovaccion Virtual program, where I obtained the Microsoft Certified Azure Fundamentals certification.  
 
-My goal is to continue learning and growing in the field of technology and cybersecurity, in order to be able to contribute my skills and knowledge to companies, organizations and innovative projects in the future.
+My goal is to continue learning and growing in the field of technology and cybersecurity, in order to be able to contribute my skills and knowledge to companies, organizations and innovative projects in the future.  
+
 
 ## Professional Experience
 > Researcher Assistant in Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)
