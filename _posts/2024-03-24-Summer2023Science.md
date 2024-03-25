@@ -34,6 +34,6 @@ Casi un mes después de terminar la estancia, se presento el trabajo desarrollad
 
 En resumen, mi participación en el Programa del XXVIII Verano de la Investigación Científica y Tecnológica del Pacífico en el INAOE fue una experiencia enriquecedora que amplió mis conocimientos y habilidades en el ámbito científico. Agradezco la oportunidad brindada y espero que mis comentarios contribuyan a mejorar las futuras estancias científicas para estudiantes.
 
-El resultado del trabajo de puede ver a continuación:
+El resultado del trabajo se puede ver a continuación:
 * [Reporte final](/documents/summer_2023/Reporte_VICI_2023_Lugo_Martinez_Saul_Isui.pdf)
 * [Cartel del congreso](/documents/summer_2023/CARTEL-CONGRESO.pdf)

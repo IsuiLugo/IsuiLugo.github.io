@@ -4,7 +4,7 @@ layout: page
 ---
 ![Banner](/assets/about_me_banner.png)
 
-I'm a COmputer Systems Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I'm a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment.   
+I'm a Computer Systems Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I'm a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment.   
 
 In my academic training, I have participated in various research projects and I have also been part of extracurricular programs. For example, I completed the Oracle Next Education program, where I gained skills as a Full Stack developer. In addition, I participated in the Microsoft Mexico Innovaccion Virtual program, where I obtained the Microsoft Certified Azure Fundamentals certification.  
 
