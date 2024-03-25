@@ -1,11 +1,10 @@
 ---
-title: About
+title: About me
 layout: page
 ---
-# Hello I'm Isui Martinez
-![Banner](https://github.com/IsuiLugo/IsuiLugo/blob/main/Images/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro%20(1).png?raw=true)
+![Banner](/assets/about_me_banner.png)
 
-I am a Security Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I am a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment.   
+I'm a COmputer Systems Engineer, currently looking for a job opportunity, in the field of Cybersecurity. I'm a proactive professional, teamwork oriented, responsible and organized. My passion for innovation and continuous learning motivates me to seek new challenges and growth opportunities. I am excited to apply my skills and knowledge in a professional environment.   
 
 In my academic training, I have participated in various research projects and I have also been part of extracurricular programs. For example, I completed the Oracle Next Education program, where I gained skills as a Full Stack developer. In addition, I participated in the Microsoft Mexico Innovaccion Virtual program, where I obtained the Microsoft Certified Azure Fundamentals certification.  
 
@@ -45,9 +44,6 @@ My goal is to continue learning and growing in the field of technology and cyber
 
 - **Bachelor of Science in Computer Systems Engineering**
   - *Instituto Tecnológico de Pachuca*
-
-- **Bachelor of Science in Software Engineering**
-  - *Universidad Digital del Estado de Hidalgo*
 
 
 ## Certifications
