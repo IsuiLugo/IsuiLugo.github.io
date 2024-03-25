@@ -2,13 +2,11 @@
 title: Contact
 layout: page
 ---
-Hello! If you'd like to get in touch or have any questions, suggestions, or comments related to cybersecurity, I'd be delighted to hear from you. Your feedback is important to me, and I'm here to assist you in any way I can.  
+Hello! If you would like to get in touch or have any questions, suggestions or comments related to cybersecurity, I would be happy to hear from you. Your feedback is important to me and I am here to help you in any way I can.  
 
-​You can reach out to me by using the contact form provided below. Please fill in the required fields with your name, email address, and the message you'd like to convey. I'll make every effort to respond to your inquiry as promptly as possible.  
-
-​Additionally, you can also find me on social media. Follow me on Twitter, and LinkedIn to stay up to date with the latest news, tips, and resources related to cybersecurity.  
-
-​I genuinely appreciate your interest and look forward to assisting you with any needs you may have. Let's stay safe in the digital world together  
+​I really appreciate your interest and look forward to helping you with any needs you may have. Let's stay safe together in the digital world  
+#### Contact information
+- Email: `isulugo@outlook.com` 
 - [LinkedIn](https://www.linkedin.com/in/isui-lugo-martinez/)
 - [Download my Cv, English version, Clic here!](/documents/CV-SAUL-LUGO-M-ENGLISH.pdf)
 - [Download my Cv, Spanish version, Clic here!](/documents/CV-SAUL-LUGO-M.pdf)
