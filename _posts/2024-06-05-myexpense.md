@@ -4,7 +4,7 @@ author: Isui Martinez
 title: Writeup MyExpense 1 - Vulnhub (En redacción)
 ---
 ![Banner-MyExpense](/images/myexpense/banner-myexpense-vh.png "banner-myexpense1")
-## My Expensive from VulnHub Spanish Writeup
+## My Expense from VulnHub Spanish Writeup
 
 #### Skills
 
@@ -136,13 +136,20 @@ La validación de las credenciales parece ser correcta, pero indica que la cuent
 
 Se observa que hay un formulario para registrar usuarios, lo que puede permitir ver como se realizan las peticiones al servidor cuando se ejecuta dicho formulario. Se observa que el botón de `Sing up!` se encuentra deshabilitado:
 
-![[Pasted image 20240604235915.png]]
+![](/images/myexpense/Pasted image 20240604235915.png)
+
 Este problema se puede resolver, desactivando el argumento `disabled` desde el código HTML:
-![[Pasted image 20240605000119.png]]
+
+![](/images/myexpense/Pasted image 20240605000119.png)
+
 Y la cuenta se puede crear correctamente:
-![[Pasted image 20240605000322.png]]
+
+![](/images/myexpense/Pasted image 20240605000322.png)
+
 Si se lista la nueva cuenta se puede observar:
-![[Pasted image 20240605000421.png]]
+
+![](/images/myexpense/Pasted image 20240605000421.png)
+
 ## XSS
 A continuación mediante la creación de una nueva cuenta, ejecutara un CSRF para intentar cargar un recurso externo:
 ```

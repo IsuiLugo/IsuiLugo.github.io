@@ -41,7 +41,7 @@ Nmap done: 1 IP address (1 host up) scanned in 45.91 seconds
 ┌──(isui㉿kali)-[~/TryHackMe/pickle_rick]
 └─$                     
 ```
-![[Pasted image 20240624002947.png]]
+![](/images/pickle_rick/Pasted image 20240624002947.png)
 
 Escaneo exhaustivo de puertos:
 ```
@@ -113,7 +113,7 @@ Al realizar este reconocimiento, se expuso en el código HTML, un comentario que
 ![](/images/pickle_rick/Pasted image 20240624004334.png)
 
 # Enumeración 
-Las tecnologias utilizadas se enumerarón con la herramienta  `whatwep`:
+Las tecnologias utilizadas se enumerarón con la herramienta  `whatweb`:
 ```
 whatweb http://10.10.42.81
 ```
