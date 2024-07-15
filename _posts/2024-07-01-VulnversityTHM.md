@@ -523,6 +523,6 @@ Navegando, se puede obtener la última bandera del usuario Root:
 De está manera se termina este CTF. Gracias por leerme!
 
 
-WIth <3 <img src="https://tryhackme-badges.s3.amazonaws.com/IsuiMartinez.png" alt="TryHackMe">  
+tHanks f0r read1ng w1th L0v3 Isu <3
 
 And H4ppy H4cking!

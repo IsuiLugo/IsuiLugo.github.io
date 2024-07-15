@@ -266,6 +266,7 @@ Y buscando en el directorio del root, se puede obtener la flag:
 
 ![](/images/ignite/Pasted image 20240628181246.png)
 ---------------------------------------------------
-WIth <3 <img src="https://tryhackme-badges.s3.amazonaws.com/IsuiMartinez.png" alt="TryHackMe">  
+
+tHanks f0r read1ng w1th L0v3 Isu <3
 
 And H4ppy H4cking!

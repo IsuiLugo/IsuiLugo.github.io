@@ -308,6 +308,7 @@ Para la tercer bandera se busco en el directorio del usuario ROOT, gracias a la 
 Y así se terminó este CTF, gracias por llegar aquí!
 
 ---------------------------------------------------
-WIth <3 <img src="https://tryhackme-badges.s3.amazonaws.com/IsuiMartinez.png" alt="TryHackMe">  
+
+tHanks f0r read1ng w1th L0v3 Isu <3
 
 And H4ppy H4cking!
