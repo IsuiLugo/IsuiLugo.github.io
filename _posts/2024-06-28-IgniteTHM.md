@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Isui
-title: Ignite - TryHackMe
+title: Ignite TryHackMe Spanish Walkthrough
 ---
 ![Banner Ignite](/images/ignite/1.png 'Banner')
 #TryHackMe 

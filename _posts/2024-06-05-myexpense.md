@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Isui Martinez
-title: Writeup MyExpense 1 - Vulnhub (En redacción)
+title: MyExpense 1 - Vulnhub Spanish Walkthrough (En redacción)
 ---
 ![Banner-MyExpense](/images/myexpense/banner-myexpense-vh.png "banner-myexpense1")
 ## My Expense from VulnHub Spanish Writeup

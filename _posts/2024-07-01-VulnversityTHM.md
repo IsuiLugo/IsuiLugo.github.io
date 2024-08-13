@@ -1,8 +1,9 @@
 ---
 layout: post
 author: Isui
-title: Vulnversity - TryHackMe
+title: Vulnversity TryHackMe Spanish Walkthrough
 ---
+
 ![Banner VUlnverity](/images/vulnversity/2.png "Banner")
 #TryHackMe
 By Isui

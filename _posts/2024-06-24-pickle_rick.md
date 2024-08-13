@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Isui
-title: Pickle Rick - TryHackMe
+title: Pickle Rick TryHackMe Spanish Walkthrough
 ---
 ![Banner Pickle RIck](/images/pickle_rick/portadas-writeups.gif "Banner")
 
